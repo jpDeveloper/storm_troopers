@@ -1,4 +1,4 @@
 storm_troopers
 ==============
 
-HTML, CSS3, Javascript, JQuery, Angular JS, PHP, Less, Sass +
+Angular JS, CSS3, Javascript, JQuery, PHP, Less, Sass +
